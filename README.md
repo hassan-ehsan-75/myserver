@@ -1,2 +1,0 @@
-# myserver
-no des yet
